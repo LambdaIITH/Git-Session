@@ -4,4 +4,4 @@ People who attended the session and what they say
 
 - [Rachit Keerti Das](https://github.com/RachitKeertiDas): Bwoah
 - [Linus Torvalds](https://github.com/torvalds): I created this in 2005.
-- [Rachit Keerti Das](https://github.com/RachitKeertiDas): Hehe KG here
+- [Kaustubh Gupta](https://github.com/kaustubhg73): Hehe KG here
