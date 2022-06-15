@@ -1,12 +1,11 @@
-### Lambda Github Session
+Lambda Github Session
+People who attended the session and what they say
 
-People who attended the session and what they say 
-
-- [Rachit Keerti Das](https://github.com/RachitKeertiDas): Bwoah
-- [Linus Torvalds](https://github.com/torvalds): I created this in 2005.
-- [Rohith]https://github.com/torvalds): I created this in 2222.
-- [Kaustubh Gupta](https://github.com/kaustubhg73): Hehe KG here
-- [Rishit D](https://github.com/purplehand52):He was here.
-- [Kartheek Tammana](https://github.com/kst164): hi
-- [Gunjit Mittal](https://github.com/GunjitMittal): Hello bhaiya
-- [Rajiv Chitale](https://github.com/RajivChitale): Nice session. Good night.
+Rachit Keerti Das: Bwoah
+Linus Torvalds: I created this in 2005.
+Kaustubh Gupta: Hehe KG here
+Rishit D:He was here.
+Kartheek Tammana: hi
+Gunjit Mittal: Hello bhaiya
+Rajiv Chitale: Nice session. Good night.
+RRRR:HII
